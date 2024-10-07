@@ -1,0 +1,36 @@
+.sidebar{
+    width: 72px;
+    position: fixed;
+    top: 55px;
+    left: 0px;
+    bottom: 0px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 22px;
+    row-gap: 30px;
+}
+
+.home-icon{
+    height: 26px;
+}
+
+.subscribe-icon{
+    height: 26px;
+}
+
+.you-icon{
+    height: 26px;
+}
+
+.sidebar p{
+    margin-top: 6px;
+    font-size: 10px;
+}
+
+.sidebar div{
+    display: flex;
+    flex-direction: column;
+
+}
